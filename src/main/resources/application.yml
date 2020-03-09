@@ -8,4 +8,4 @@ eureka:
     fetch-registry: false
     service-url:
       #设置与 eureka server交互地址 查询服务和注册服务都需要依赖这个地址 多个地址之间可以用,分隔
-      default-zone: http://127.0.0.1:49000/eureka
+      defaultZone: http://127.0.0.1:49000/eureka
